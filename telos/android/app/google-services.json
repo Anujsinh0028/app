@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "63418871084",
+    "project_id": "telos-app-72126",
+    "storage_bucket": "telos-app-72126.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:63418871084:android:544abcd7bb51752984d089",
+        "android_client_info": {
+          "package_name": "com.example.telos"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDx1l7raqkGOznOFe6gaA_BLug6rIjROp8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:63418871084:android:6d51e773437400c684d089",
+        "android_client_info": {
+          "package_name": "com.example.telos"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDx1l7raqkGOznOFe6gaA_BLug6rIjROp8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
